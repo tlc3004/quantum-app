@@ -1,0 +1,22 @@
+{
+  "Leon'OS — Quantum Apps": {
+    "color": "text-green-400",
+    "fontWeight": "font-bold",
+    "fontSize": "text-lg"
+  },
+  "Cada aplicación incluida cuenta con:": {
+    "color": "text-blue-400",
+    "fontWeight": "font-semibold",
+    "fontSize": "text-lg"
+  },
+  "El flujo de la aplicación funciona así:": {
+    "color": "text-purple-400",
+    "fontWeight": "font-semibold",
+    "fontSize": "text-lg"
+  },
+  "Leon'OS prioriza:": {
+    "color": "text-pink-400",
+    "fontWeight": "font-semibold",
+    "fontSize": "text-lg"
+  }
+}

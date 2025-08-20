@@ -1,0 +1,62 @@
+[
+  {
+    "label": "Motorcycle app",
+    "url": "https://motorcycleapp.vercel.app",
+    "logo": "/logos/logo.ico",
+    "color": "bg-gray-500",
+    "A": 0.92,
+    "L": 0.71,
+    "C": 0.84,
+    "y0": 1.0
+  },
+  {
+    "label": "Tumaki web Site",
+    "url": "https://tumaki-web-site.vercel.app/",
+    "logo": "/logos/logo193.png",
+    "color": "bg-gray-500",
+    "A": 0.65,
+    "L": 0.44,
+    "C": 0.59,
+    "y0": 0.8
+  },
+  {
+    "label": "MultiAppSystem",
+    "url": "https://multiappsystem.vercel.app/",
+    "logo": "/logos/atomo.png",
+    "color": "bg-gray-500",
+    "A": 0.63,
+    "L": 0.59,
+    "C": 0.71,
+    "y0": 1.3
+  },
+  {
+    "label": "Confiture 3d",
+    "url": "https://tienda-3d-gold.vercel.app/",
+    "logo": "/logos/shoes.png",
+    "color": "bg-gray-500",
+    "A": 0.71,
+    "L": 0.62,
+    "C": 0.78,
+    "y0": 0.9
+  },
+  {
+    "label": "App MYPEru",
+    "url": "https://app-myperu.vercel.app",
+    "logo": "/logos/solutions.png",
+    "color": "bg-gray-500",
+    "A": 0.81,
+    "L": 0.56,
+    "C": 0.73,
+    "y0": 1.1
+  },
+  {
+    "label": "Tumaki",
+    "url": "https://tumaki.vercel.app",
+    "logo": "/logos/sushi.ico",
+    "color": "bg-gray-500",
+    "A": 0.93,
+    "L": 0.69,
+    "C": 0.88,
+    "y0": 1.2
+  }
+]

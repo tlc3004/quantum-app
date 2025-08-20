@@ -1,0 +1,27 @@
+Leon'OS — Quantum Apps
+
+Bienvenido a Leon'OS, tu entorno interactivo para explorar aplicaciones cuánticas de manera simulada, donde los bits se transforman en qubits. 
+Este sistema permite abrir cada app por medio de logos que son enlaces diseñados dentro de cada una y todas dentro de un iframe, navegar entre ellas sin usar el navegador y visualizar resultados de la app que ingrese desde el iframe en tiempo real.
+
+La aplicación cuenta con:
+- Interfaz propia, responsive y adaptativa.
+- Controles que permiten mostrar cálculos o datos relevantes .
+- Visualización inmediata de resultados, para que el usuario vea cómo interactúan las variables dentro de la simulación.
+
+El flujo de la aplicación funciona así:
+1. Selecciona una app desde el panel principal.
+2. Se abre la app en pantalla completa dentro del contenedor, manteniendo el entorno seguro y cerrado.
+3. Cada acción dentro de la app puede generar resultados, que se muestran de forma elegante en un modal. 
+4. Desde el modal, el usuario puede ver resultados detallados y consultar información adicional sobre la app, sin interrumpir la experiencia principal.
+5. La navegación entre apps es fluida, permitiendo saltar de una a otra sin recargar la página ni perder contexto.
+6. Se incorporan efectos de sonido y animaciones sutiles que mejoran la interacción y señalan eventos importantes (apertura de apps, resultados listos, cierres).
+7.Datos Cuánticos, explica la información general que la aplicación muestra sobre los cálculos cuánticos. Todos los resultados provienen de simulaciones reales y no revelan la fórmula.
+8.Tiempo de Estabilidad del Qubit, presenta el tiempo de estabilidad estimado del qubit según las simulaciones realizadas usando python, condamini, qiskit, matplotlib, scipy pennylanne y boostrap. Este valor ayuda a entender la fiabilidad de los datos presentados en la app.
+
+
+Leon'OS prioriza:
+- Integridad del sistema: cada app se ejecuta en un contenedor hermético, evitando interferencias.
+- Experiencia del usuario: la información se despliega de forma clara y ordenada, con acceso a documentación interna para comprender el proceso de cada aplicación.
+- Flujo continuo: los resultados y mensajes aparecen sin bloquear la navegación ni requerir acciones externas.
+
+Este sistema fue diseñado para simular reales procesos cuanticos complejos de manera interactiva, segura y elegante, manteniendolo confiable y preciso.
